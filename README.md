@@ -30,6 +30,3 @@ This project is a **Banking Management System** implemented in Python, featuring
 - Object-Oriented Programming
 - Console-based UI
 
-## 📂 File Structure
-
-
